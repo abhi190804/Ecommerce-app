@@ -1,4 +1,4 @@
-## Ecomerce-app 
+## Ecommerce-app 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhi190804%2Fflutter_ecommerce_app&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Dart CI](https://github.com/abhi190804/flutter_ecommerce_app/workflows/Dart%20CI/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abhi190804/flutter_ecommerce_app)   ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fabhi190804) [![GitHub stars](https://img.shields.io/github/stars/abhi190804/flutter_ecommerce_app?style=social)](https://github.com/login?return_to=%2Fabhi190804%flutter_ecommerce_app) ![GitHub forks](https://img.shields.io/github/forks/abhi190804/flutter_ecommerce_app?style=social) 
 
@@ -17,7 +17,7 @@
 ## iOS Screenshots
   HomePage                 |   Product Detail Page        |  Cart Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/abhi190804/Ecomerce-app/blob/master/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/abhi190804/Ecomerce-app/blob/master/screenshots/screenshot_ios_2.png?raw=true)|![](https://github.com/abhi190804/Ecomerce-app/blob/master/screenshots/screenshot_ios_3.png?raw=true)
+![](https://github.com/abhi190804/Ecommerce-app/blob/master/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/abhi190804/Ecommerce-app/blob/master/screenshots/screenshot_ios_2.png?raw=true)|![](https://github.com/abhi190804/Ecommerce-app/blob/master/screenshots/screenshot_ios_3.png?raw=true)
 
 ## Directory Structure
 ```
