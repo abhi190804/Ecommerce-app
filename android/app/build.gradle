@@ -26,6 +26,9 @@ apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
+
+    namespace 'com.abhi190804.flutter_ecommerce_app'
+
     compileSdkVersion 31
 
     sourceSets {
@@ -34,7 +37,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.thealphamerc.flutter_ecommerce_app"
+        applicationId "com.abhi190804.flutter_ecommerce_app"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()
