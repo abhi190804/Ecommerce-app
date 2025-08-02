@@ -18,7 +18,7 @@ jobs:
         uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.22.1'
-          channel: 'stable'
+          channel: stable
 
       - name: 🧹 Clean Flutter
         run: flutter clean
@@ -26,10 +26,8 @@ jobs:
       - name: 🔄 Get dependencies
         run: flutter pub get
 
-      - name: 📂 Change directory to Android
-        working-directory: ./android
-        run: |
-          chmod +x gradlew
+      - name: 🏗️ Make gradlew executable
+        run: chmod +x android/gradlew
 
       - name: 🏗️ Build release APK
         run: flutter build apk --release
