@@ -23,12 +23,12 @@ if (flutterVersionName == null) {
 
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
-apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+// apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
 
     compileSdkVersion 31
-    
+
     namespace  "com.thealphamerc.flutter_ecommerce_app"
 
     sourceSets {
@@ -53,9 +53,9 @@ android {
     }
 }
 
-flutter {
-    source '../..'
-}
+// flutter {
+//     source '../..'
+// }
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
